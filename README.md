@@ -1,4 +1,4 @@
-# authenticate-rce-motioney
+# MotionEye/MotionEyeOS Authenticate RCE
 A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye
 
 Example:
