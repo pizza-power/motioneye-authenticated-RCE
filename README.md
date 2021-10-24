@@ -1,5 +1,5 @@
 # MotionEye/MotionEyeOS Authenticated RCE
-A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye. You need administrator credentials, so it should not be that big of a deal. Unfortunately, MotionEye/MotionEye tend to be ran with default credentials. 
+A Python 3 script that uploads a tasks.pickle file that enables RCE in MotionEye. You need administrator credentials, so it should not be that big of a deal. Unfortunately, MotionEye/MotionEyeOS can frequently be found running with default credentials. 
 
 Example:
 
